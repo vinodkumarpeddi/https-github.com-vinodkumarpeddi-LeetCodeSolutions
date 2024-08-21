@@ -30,7 +30,7 @@ class Solution {
            
             if(res==0)
             {
-                
+                temp.next=temp.next.next;
                 break;
 
             }
@@ -38,7 +38,7 @@ class Solution {
              
            
         }
-        temp.next=temp.next.next;
+      
         return head;
 
 
