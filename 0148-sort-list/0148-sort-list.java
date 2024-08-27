@@ -9,23 +9,58 @@
  * }
  */
 class Solution {
+    public ListNode Findmiddle(ListNode head)
+    {
+        ListNode slow=head;
+        ListNode fast=head.next;
+        while(fast!=null && fast.next!=null)
+        {
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        return slow;
+    }
+    public ListNode Mergetwolists(ListNode left,ListNode right)
+    {
+        ListNode dummynode=new ListNode(-1);
+        ListNode temp=dummynode;
+        while(left!=null && right!=null)
+        {
+            if(left.val<right.val)
+            {
+                temp.next=left;
+                temp=left;
+                left=left.next;
+            }
+            else
+            {
+                  temp.next=right;
+                temp=right;
+                right=right.next;
+
+            }
+        }
+        if(left!=null)
+        {
+            temp.next=left;
+        }
+        else
+        {
+            temp.next=right;
+        }
+        return dummynode.next;
+    }
     public ListNode sortList(ListNode head) {
-        ArrayList<Integer> list=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null)
-        {
-            list.add(temp.val);
-            temp=temp.next;
-        }
-        Collections.sort(list);
-        temp=head;
-        int i=0;
-        while(temp!=null)
-        {
-            temp.val=list.get(i);
-            temp=temp.next;
-            i++;
-        }
+      if(head==null || head.next==null)
+      {
         return head;
+      }
+        ListNode middle=Findmiddle(head);
+        ListNode right=middle.next;
+        middle.next=null;
+           ListNode left=head;
+           left=sortList(left);
+           right=sortList(right);
+           return Mergetwolists(left,right);
     }
 }
