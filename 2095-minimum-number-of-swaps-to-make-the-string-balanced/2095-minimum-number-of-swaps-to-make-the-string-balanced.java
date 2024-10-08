@@ -19,10 +19,10 @@ class Solution {
                 else
                 {
                     swap++;
-                    imbalance++;
+        
                 }
             }
         }
-        return swap;
+        return swap/2 + swap%2;
     }
 }
