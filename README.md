@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Divide and Conquer
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
