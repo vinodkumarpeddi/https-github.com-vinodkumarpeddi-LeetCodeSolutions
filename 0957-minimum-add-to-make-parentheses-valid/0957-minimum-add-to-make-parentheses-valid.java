@@ -2,27 +2,27 @@ class Solution {
     public int minAddToMakeValid(String s) {
         int balance=0;
         int count=0;
-        Stack<Character> st=new Stack<>();
+       
         for(char ch:s.toCharArray())
         {
             if(ch=='(')
             {
-               st.push(ch);
+             balance++;
             }
             else
             {
-                if(!st.isEmpty() && st.peek()=='(')
+                if(balance>0)
                 {
-                   st.pop();
+                  balance--;
                 }
                 else
                 {
-                    st.push(ch);
+                    count++;
                 }
                
             }
            
         }
-         return st.size();
+         return (balance+count);
     }
 }
