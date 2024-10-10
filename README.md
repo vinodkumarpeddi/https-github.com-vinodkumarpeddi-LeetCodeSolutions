@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
+| [1002-maximum-width-ramp](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2155-find-missing-observations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Divide and Conquer
 |  |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0567-permutation-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
