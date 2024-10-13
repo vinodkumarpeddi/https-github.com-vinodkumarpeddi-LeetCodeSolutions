@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Greedy
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0338-counting-bits) |
 ## Brainteaser
 |  |
 | ------- |
