@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0908-middle-of-the-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3195-separate-black-and-white-balls](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 ## Matrix
 |  |
 | ------- |
