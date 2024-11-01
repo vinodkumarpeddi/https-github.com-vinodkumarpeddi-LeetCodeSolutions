@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/vinodkumarpeddi/https-github.com-vinodkumarpeddi-LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
